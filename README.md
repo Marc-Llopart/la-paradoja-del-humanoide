@@ -33,7 +33,7 @@ Son **humanos del futuro** estudiando su propio pasado.
 
 ## 📄 Documento Completo
 
-- **[PDF Completo](./La_Paradoja_del_Humanoide.pdf)** _(próximamente)_
+- **[PDF Completo](./La_Paradoja_del_Humanoide.pdf)**
 - **[DOI Zenodo](https://doi.org/10.5281/zenodo.18037422)**
 
 ## 🧠 Conexión con Análisis de Datos
@@ -60,7 +60,7 @@ Cuestionar asunciones → Identificar patrones → Evaluar alternativas → Prop
 
 **Marc Llopart**  
 Retail Data Analyst & AI Consultant  
-[[LinkedIn](https://linkedin.com/in/marcllopart](https://www.linkedin.com/in/marc-llopart/)) | [GitHub](https://github.com/Marc-Llopart)
+[LinkedIn](https://linkedin.com/in/marc-llopart) | [GitHub](https://github.com/Marc-Llopart)
 
 ---
 
