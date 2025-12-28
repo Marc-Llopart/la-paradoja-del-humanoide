@@ -60,7 +60,7 @@ Cuestionar asunciones → Identificar patrones → Evaluar alternativas → Prop
 
 **Marc Llopart**  
 Retail Data Analyst & AI Consultant  
-[LinkedIn](https://linkedin.com/in/marcllopart) | [GitHub](https://github.com/Marc-Llopart)
+[[LinkedIn](https://linkedin.com/in/marcllopart](https://www.linkedin.com/in/marc-llopart/)) | [GitHub](https://github.com/Marc-Llopart)
 
 ---
 
