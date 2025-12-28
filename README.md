@@ -33,7 +33,7 @@ Son **humanos del futuro** estudiando su propio pasado.
 
 ## 📄 Documento Completo
 
-- **[PDF Completo](./La_Paradoja_del_Humanoide.pdf)**
+- **[PDF Completo](./La%20Paradoja%20del%20Humanoide%20-%20Marc%20Llopart.pdf)**
 - **[DOI Zenodo](https://doi.org/10.5281/zenodo.18037422)**
 
 ## 🧠 Conexión con Análisis de Datos
