@@ -3,7 +3,6 @@
 **Hipótesis sobre el origen temporal de visitantes no identificados: Un enfoque probabilístico**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18037422.svg)](https://doi.org/10.5281/zenodo.18037422)
-[![Zenodo](https://img.shields.io/badge/Zenodo-Published-blue)](https://doi.org/10.5281/zenodo.18037422)
 
 ---
 
