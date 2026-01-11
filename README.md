@@ -221,7 +221,7 @@ Especializado en identificación de patrones en datos complejos y construcción 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marc-llopart/)
 - 📧 Email: 82llopis@gmail.com
-- 📰 Newsletter: [Criterio IA](https://www.linkedin.com/newsletters/criterio-ia-newsletter-de-ia-7299551377993695232/)
+- 📰 Newsletter: [Data con Criterio](https://www.linkedin.com/newsletters/data-con-criterio-7299551377993695232/)
 
 ---
 
